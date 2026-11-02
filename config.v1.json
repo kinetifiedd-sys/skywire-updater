@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "supportedGameVersion": "version-11f155f3450f4c8e",
+  "gamePatchDate": "2026-11-02",
+  "status": "operational",
+  "statusMessage": "Roblox build 11f verified. All execution hooks operational.",
+  "appVersion": "0.4.0",
+  "downloadUrl": "https://github.com/kinetifiedd-sys/skywire-updater/releases",
+  "changelog": [
+    "Direct Luau runtime support",
+    "Specular UI theme and script manager"
+  ],
+  "announcement": {
+    "id": "welcome-cloudly-040",
+    "level": "info",
+    "title": "Cloudly Active",
+    "message": "Routine offset telemetry active for current Roblox client cycle.",
+    "actionText": "GitHub",
+    "actionUrl": "https://github.com/kinetifiedd-sys/skywire-updater"
+  }
+}
